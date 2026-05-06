@@ -6,6 +6,7 @@ This project focuses on analyzing housing market data and visualizing key trends
 
 Through interactive dashboards and visualizations, the project provides insights into factors affecting housing prices such as location, property size, number of rooms, and other attributes.
 
+---
 ## Objectives
 
 - Analyze housing market data to understand price trends.
@@ -13,6 +14,7 @@ Through interactive dashboards and visualizations, the project provides insights
 - Create interactive visualizations using Tableau.
 - Provide insights that help in data-driven decision-making
 
+---
 ## Tools and Technologies
 
 - Tableau – Data visualization and Dashboard,Story creation
